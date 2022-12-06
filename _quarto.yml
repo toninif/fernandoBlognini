@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "fernandoBlognini"
@@ -12,8 +13,9 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
 
 editor: visual
+from: markdown+emoji
 
