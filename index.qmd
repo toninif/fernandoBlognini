@@ -1,5 +1,5 @@
 ---
-title: "fernandoBlognini"
+title: ""
 listing:
   contents: posts
   sort: "date desc"
